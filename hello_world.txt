@@ -1,1 +1,0 @@
-Hi! My name is Hafsa Malik and I'm learning the web development course from odin project and this is my first lesson on GitHub and Git 
